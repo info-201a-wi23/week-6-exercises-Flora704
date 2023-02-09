@@ -50,4 +50,3 @@ ggplot(data = rating_per_season)+
 
 
 
-
